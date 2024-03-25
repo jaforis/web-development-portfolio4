@@ -60,3 +60,10 @@ div{
 .section-description{
     text-align: center;
 }
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about-info-container{
+    display: flex;
+}
