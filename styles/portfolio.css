@@ -45,3 +45,18 @@ background-color: antiquewhite;
     display: flex;
     align-items: center;
 }
+.about{
+    padding: 100px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin: 130px 20px;
+}
+div{
+    justify-content: space-between;
+}
+.section-title{
+    text-align: center;
+}
+.section-description{
+    text-align: center;
+}
