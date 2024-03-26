@@ -76,3 +76,19 @@ h2{
 .section{
 background-color: antiquewhite;
 }
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.section-description{
+}
+.skill{
+
+    align-items: center;
+}
+main section{
+    margin-top: 130px;
+}
+.resume-title{
+    display: flex;
+}
