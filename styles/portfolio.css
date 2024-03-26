@@ -92,3 +92,14 @@ main section{
 .resume-title{
     display: flex;
 }
+.title{
+    text-align: center;
+}
+.resume-container{
+    display: flex;
+    gap: 50px;
+}
+.CV{
+    text-align: center;
+    margin-top: 50px;
+}
